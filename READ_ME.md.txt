@@ -37,13 +37,13 @@ To run this clone app in your local machine, follow the below mentioned steps:
 
 	--   git clone https://github.com/Shakthi1109/HPDF_Task1_TwitterClone.git
 
-	--   cd HPDF_TwitterApp
+	--   cd HPDF_Task1_TwitterClone
 
     	-- npm install 
 
 3. Open Android Studio & select open an existing project.
 
-	c:\ HPDF_TwitterApp -> android
+	c:\ HPDF_Task1_TwitterClone -> android
 
 4. Open AVD Manager and create any virtual device with these specifications:
 
